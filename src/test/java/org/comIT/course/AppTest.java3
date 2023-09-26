@@ -1,0 +1,11 @@
+public class Main {
+    public static void main(String[] args) {
+        // Declare and initialize two long variables
+        long num1 = 24125456143L; // Note the 'L' at the end to specify a long literal
+        long num2 = 784125345656L;
+        
+        // Print the variables to the console
+        System.out.println("num1: " + num1);
+        System.out.println("num2: " + num2);
+    }
+}

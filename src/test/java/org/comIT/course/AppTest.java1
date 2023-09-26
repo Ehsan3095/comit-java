@@ -1,0 +1,11 @@
+public class Main {
+    public static void main(String[] args) {
+        // Declare and initialize two double variables
+        double num1 = 45.62435;
+        double num2 = 107.25424;
+        
+        // Print the variables to the console
+        System.out.println("num1: " + num1);
+        System.out.println("num2: " + num2);
+    }
+}

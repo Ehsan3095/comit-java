@@ -1,0 +1,11 @@
+public class Main {
+    public static void main(String[] args) {
+        // Declare and initialize two String variables
+        String str1 = "I love Java";
+        String str2 = "Hello ComIT";
+        
+        // Print the variables to the console
+        System.out.println("str1: " + str1);
+        System.out.println("str2: " + str2);
+    }
+}

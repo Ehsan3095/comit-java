@@ -1,0 +1,11 @@
+public class Main {
+    public static void main(String[] args) {
+        // Declare and initialize two float variables
+        float num1 = 5.3f; // Note the 'f' at the end to specify a float literal
+        float num2 = 7.5f;
+        
+        // Print the variables to the console
+        System.out.println("num1: " + num1);
+        System.out.println("num2: " + num2);
+    }
+}
